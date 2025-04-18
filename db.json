@@ -1,0 +1,89 @@
+{
+  "letters": [
+    {"key": "a"},
+    {"key": "b"},
+    {"key": "c"},
+    {"key": "d"},
+    {"key": "e"},
+    {"key": "f"},
+    {"key": "g"},
+    {"key": "h"},
+    {"key": "i"},
+    {"key": "j"},
+    {"key": "k"},
+    {"key": "l"},
+    {"key": "m"},
+    {"key": "n"},
+    {"key": "o"},
+    {"key": "p"},
+    {"key": "q"},
+    {"key": "r"},
+    {"key": "s"},
+    {"key": "t"},
+    {"key": "u"},
+    {"key": "v"},
+    {"key": "w"},
+    {"key": "x"},
+    {"key": "y"},
+    {"key": "z"},
+    {"key": " "}
+  ],
+  "solutions": [
+    {"id": 1, "question": "What's brown and sticky?", "answer": "a stick"},
+    {
+      "id": 2,
+      "question": "What do you call a fake noodle?",
+      "answer": "an impasta"
+    },
+    {
+      "id": 3,
+      "question": "How does the moon cut his hair?",
+      "answer": "eclipse it"
+    },
+    {
+      "id": 4,
+      "question": "What do you call a factory that makes okay products?",
+      "answer": "a satisfactory"
+    },
+    {
+      "id": 5,
+      "question": "What do you call a fish wearing a bowtie?",
+      "answer": "sofishticated"
+    },
+    {
+      "id": 6,
+      "question": "What kind of car does an egg drive?",
+      "answer": "a yolkswagen"
+    },
+    {
+      "id": 7,
+      "question": "How many tickles does it take to make an octopus laugh?",
+      "answer": "ten tickles"
+    },
+    {
+      "id": 8,
+      "question": "What does a bee use to brush its hair?",
+      "answer": "a honeycomb"
+    },
+    {
+      "id": 9,
+      "question": "What do cats eat for breakfast?",
+      "answer": "mice krispies"
+    },
+    {
+      "id": 10,
+      "question": "What color is the wind?",
+      "answer": "blew"
+    },
+    {
+      "id": 11,
+      "question": "Who do you call to clean the ocean?",
+      "answer": "mermaids"
+    },
+    {
+      "id": 12,
+      "question": "Where do rainbows go after being arrested?",
+      "answer": "prism"
+    }
+  ]
+}
